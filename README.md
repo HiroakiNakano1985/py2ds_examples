@@ -1,2 +1,3 @@
 # py2ds_examples
-add short description to README
+
+"This project is used to practice Git Collaboration in the Python for Data Science"
